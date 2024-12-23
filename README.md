@@ -15,7 +15,7 @@ This project demonstrates the use of CSS pseudo-selectors to style and interact 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/css-pseudo-selectors-balance-sheet.git
+   git clone https://github.com/harshsingh1112/CSS-Pseudo-Selectors---Balance-Sheet.git
 
 2. Navigate to the project directory:
    cd css-pseudo-selectors-balance-sheet
